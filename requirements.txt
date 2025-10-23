@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+requests
+audio-recorder-streamlit
+langchain
+langchain-mistralai
+langgraph
+mistralai
+python-dateutil
+torch
+numpy
+faster-whisper
+kokoro
+pydantic
+aiofiles
+soundfile
