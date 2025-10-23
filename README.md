@@ -208,8 +208,8 @@ Response:
 
 **Jagadeesh Pamanji**
 *Generative AI Engineer*
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-📧 [your.email@example.com](mailto:your.email@example.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/pamanji-jagadesh-8619ab186/)
+📧 [jagadeshpamanji@gmail.com](mailto:your.email@example.com)
 
 ---
 
@@ -219,24 +219,3 @@ Pull requests are welcome!
 If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
-
-## 🛡️ License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-## 🪄 Next Steps (optional)
-To make this README visually rich:
-- Add 3 PNGs in a folder named `/assets`  
-  - `streamlit_ui.png`
-  - `fastapi_terminal.png`
-  - `response_output.png`
-- Update image links in README to point to your GitHub repo.
-
----
-
-Would you like me to **generate those sample screenshots** (`streamlit_ui.png`, `fastapi_terminal.png`, and `response_output.png`) for you so you can directly upload them to GitHub?
-```
