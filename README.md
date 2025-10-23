@@ -133,11 +133,11 @@ You can modify this to use your Azure API endpoint or public URL when deploying.
 
 ### ⚙️ FastAPI Server Running
 
-![FastAPI Terminal](assets/fastapi_terminal.png)
+![FastAPI Terminal](2.jpg)
 
 ### 🧠 Response Example
 
-![Response Output](assets/response_output.png)
+![Response Output](3.jpg)
 
 *(You can add your own screenshots to `/assets` folder for visual appeal.)*
 
