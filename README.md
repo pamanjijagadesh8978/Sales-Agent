@@ -129,7 +129,7 @@ You can modify this to use your Azure API endpoint or public URL when deploying.
 
 ### 🧩 Streamlit Interface
 
-![Streamlit UI](1.jpg)
+![Streamlit](1.jpg)
 
 ### ⚙️ FastAPI Server Running
 
