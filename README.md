@@ -1,10 +1,5 @@
 # Sales-Agent
 Agentic AI System for performing sales operations
-Perfect 🔥 — here’s a **complete, professional GitHub `README.md`** you can paste directly into your repo to showcase your **FastAPI + Streamlit AI app**.
-It’s formatted beautifully for GitHub with sections, screenshots, and code blocks.
-
----
-
 ## 📘 `README.md`
 
 ```markdown
