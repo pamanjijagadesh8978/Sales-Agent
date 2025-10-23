@@ -29,11 +29,11 @@ This project demonstrates:
 ```
 
 project_folder/
-│
-├── booking_backend_fastapi.py     # FastAPI backend
-├── booking_frontend_fast.py       # Streamlit frontend
-├── requirements.txt               # Dependencies
-└── env/                           # Virtual environment
+
+- booking_backend_fastapi.py     # FastAPI backend
+- booking_frontend_fast.py       # Streamlit frontend
+- requirements.txt               # Dependencies
+- env/                           # Virtual environment
 
 ````
 
